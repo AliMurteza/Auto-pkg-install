@@ -1,4 +1,4 @@
-# Auto-pkg-install-
+# Auto-pkg-install
 All Packages Automatically install :) 
 
 # Install 
