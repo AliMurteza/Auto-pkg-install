@@ -11,5 +11,5 @@ git clone https://github.com/Tech-abm/Auto-pkg-install
 
 cd Auto-pkg-install 
 
-./install.sh
+bash install.sh
 ```
