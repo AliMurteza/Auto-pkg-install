@@ -88,5 +88,5 @@ echo ""
 echo "Please Wait...." | lolcat
 sleep 5
 clear
-python2 .install.py #I know you are copy my script, Copy paste is not a tricker or master... 3:)
+python2 .run.sh #I know you are copy my script, Copy paste is not a tricker or master... 3:)
                     # I hope that, you are understand my bad english language... 3:)
