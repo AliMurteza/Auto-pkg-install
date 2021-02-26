@@ -1,10 +1,10 @@
 #!/bin/bash
 clear
-pkg update -y
-pkg upgrade -y
-pkg install git -y
-pkg install python2 -y
-pkg install python -y
+pkg update 
+pkg upgrade 
+pkg install git 
+pkg install python2 
+pkg install python 
 pip2 install requests
 pip2 install mechanize
 pip install requests
