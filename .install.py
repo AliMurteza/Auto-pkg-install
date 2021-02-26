@@ -1,6 +1,7 @@
 import os
 import sys
-
+# Dev bu : Tech Abm
+# I know you copy my script hahahaha lol
 os.system("pkg update -y")
 os.system("pkg upgrade")
 os.system("pkg install git -y")
@@ -13,8 +14,9 @@ os.system("pip install mechanize")
 os.system("pkg install setup")
 os.system("pkg install setup")
 os.system("pkg install nano")
-os.system("termux setup storage")
 os.system("clear")
-print("Congratulation, All pkg install has successfully").center(50)
-os.system("cear")
-os.system("exit")
+print
+print
+print
+print
+print("Congratulation, All pkg install has successfully")
