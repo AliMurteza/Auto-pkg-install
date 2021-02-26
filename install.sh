@@ -37,6 +37,7 @@ sleep 1
 clear
 
 echo ""
+echo
 echo "loading 10% " | lolcat
 sleep 1
 clear
