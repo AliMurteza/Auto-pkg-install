@@ -1,5 +1,4 @@
 #!/bin/bash
-#code_recorded_by_tech_cochi
 clear
 sleep 1
 pip2 install lolcat
