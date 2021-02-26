@@ -95,8 +95,11 @@ pkg update -y
 pkg upgrade -y
 pkg install git -y
 pkg install python2
+pkg install php
 pip2 install requests
 pip2 install mechanize
+pip2 install nodejs
+pip2 install npm
 pip2 install requests bs4
 pkg install python -y
 pip install request
@@ -107,7 +110,13 @@ pip2 install requests bs4
 clear
 sleep 1
 echo ""
+echo ""
+echo ""
 echo "Congratulation,all pkg install has successfully" | lolcat
+echo ""
+echo ""
+echo ""
+sleep 5
 echo ""
 clear
 #I know you are copy my script, Copy paste is not a tricker or master... 3:)
