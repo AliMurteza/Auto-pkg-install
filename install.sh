@@ -35,8 +35,7 @@ pip2 install requests bs4
 sleep 1
 clear
 
-echo ""
-echo
+echo 
 echo "loading 10% " | lolcat
 sleep 1
 clear
@@ -90,7 +89,9 @@ echo
 echo ""
 echo ""
 echo ""
+echo
 echo "Please Wait...." | lolcat
 sleep 5
+clear
 python2 .install.py #I know you are copy my script, Copy paste is not a tricker or master... 3:)
                     # I hope that, you are understand my bad english language... 3:)
