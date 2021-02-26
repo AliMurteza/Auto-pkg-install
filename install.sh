@@ -22,7 +22,7 @@ echo ""
 sleep 1
 echo ""
 echo ""
-echo "\tPlease Wait some time" | lolcat
+echo "Please Wait some time" | lolcat
 echo ""
 echo ""
 sleep 6
