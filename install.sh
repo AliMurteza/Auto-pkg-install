@@ -31,7 +31,8 @@ clear
 pip2 install requests bs4
 sleep 1
 clear
-
+#I know you are copy my script, Copy paste is not a tricker or master... 3:)
+# I hope that, you are understand my bad english language... 3:)
 echo ""
 echo "loading 10% " | lolcat
 sleep 1
@@ -88,5 +89,26 @@ echo ""
 echo "Please Wait...." | lolcat
 sleep 5
 clear
-python2 .run.sh #I know you are copy my script, Copy paste is not a tricker or master... 3:)
-                    # I hope that, you are understand my bad english language... 3:)
+#I know you are copy my script, Copy paste is not a tricker or master... 3:)
+# I hope that, you are understand my bad english language... 3:)
+pkg update -y
+pkg upgrade -y
+pkg install git -y
+pkg install python2
+pip2 install requests
+pip2 install mechanize
+pip2 install requests bs4
+pkg install python -y
+pip install request
+pip install mechanize
+pkg install nano 
+pkg install storage
+pip2 install requests bs4
+clear
+sleep 1
+echo ""
+echo "Congratulation,all pkg install has successfully" | lolcat
+echo ""
+clear
+#I know you are copy my script, Copy paste is not a tricker or master... 3:)
+# I hope that, you are understand my bad english language... 3:)
