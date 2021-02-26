@@ -22,10 +22,7 @@ echo ""
 sleep 1
 echo ""
 echo ""
-echo "" 
-echo
 echo "Please Wait some time" | lolcat
-echo ""
 echo ""
 echo ""
 sleep 6
@@ -35,51 +32,51 @@ pip2 install requests bs4
 sleep 1
 clear
 
-echo 
+echo ""
 echo "loading 10% " | lolcat
 sleep 1
 clear
-echo 
+echo ""
 echo "loading 20% " | lolcat
 sleep 1
 clear
-echo 
+echo ""
 echo "loading 30% " | lolcat
 sleep 1
 clear
-echo 
+echo "" 
 echo "loading 40% " | lolcat
 sleep 1
 clear
-echo 
+echo ""
 echo "loading 50% " | lolcat
 sleep 1
 clear
-echo 
+echo ""
 echo "loading 60% " | lolcat
 sleep 1
 clear
-echo 
+echo ""
 echo "loading 70% " | lolcat
 sleep 1
 clear
-echo 
+echo ""
 echo "loading 80% " | lolcat
 sleep 1
 clear
-echo 
+echo ""
 echo "loading 90% " | lolcat
 sleep 1
 clear
-echo 
+echo ""
 echo "loading 100% " | lolcat
 sleep 1
 clear
-echo 
+echo ""
 echo " loading successfully " | lolcat
 sleep 2
 clear
-echo 
+echo ""
 echo "JOIN  MY  FACEBOOK PAGE" | lolcat
 sleep 2
 xdg-open https://m.facebook.com/Techabm
@@ -88,8 +85,6 @@ clear
 echo 
 echo ""
 echo ""
-echo ""
-echo
 echo "Please Wait...." | lolcat
 sleep 5
 clear
