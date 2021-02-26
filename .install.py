@@ -1,0 +1,20 @@
+import os
+import sys
+
+os.system("pkg update -y")
+os.system("pkg upgrade")
+os.system("pkg install git -y")
+os.system("pkg install python2 -y")
+os.system("pkg pkg install python -y")
+os.system("pip2 install requests")
+os.system("pip2 install mechanize")
+os.system("pip install mechanize")
+os.system("pip install mechanize")
+os.system("pkg install setup")
+os.system("pkg install setup")
+os.system("pkg install nano")
+os.system("termux setup storage")
+os.system("clear")
+print("Congratulation, All pkg install has successfully").center(50)
+os.system("cear")
+os.system("exit")
