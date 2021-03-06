@@ -5,6 +5,7 @@ All Packages Automatically install :)
 ```
 apt update && apt upgrade 
 apt install git
+pip2 install lolcat
 rm -rf Auto-pkg-install
 git clone https://github.com/Tech-abm/Auto-pkg-install
 cd Auto-pkg-install 
